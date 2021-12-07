@@ -1,0 +1,3 @@
+﻿  Lanternfish.cpp
+C:\Users\cjhor\source\repos\Lanternfish\Lanternfish.cpp(31,30): warning C4018: '<': signed/unsigned mismatch
+  Lanternfish.vcxproj -> C:\Users\cjhor\source\repos\Lanternfish\Debug\Lanternfish.exe
